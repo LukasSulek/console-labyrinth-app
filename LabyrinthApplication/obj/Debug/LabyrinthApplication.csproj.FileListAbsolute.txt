@@ -1,0 +1,7 @@
+C:\Users\misos\source\repos\LabyrinthApplication\LabyrinthApplication\obj\Debug\LabyrinthApplication.csproj.AssemblyReference.cache
+C:\Users\misos\source\repos\LabyrinthApplication\LabyrinthApplication\obj\Debug\LabyrinthApplication.csproj.CoreCompileInputs.cache
+C:\Users\misos\source\repos\LabyrinthApplication\LabyrinthApplication\bin\Debug\LabyrinthApplication.exe.config
+C:\Users\misos\source\repos\LabyrinthApplication\LabyrinthApplication\bin\Debug\LabyrinthApplication.exe
+C:\Users\misos\source\repos\LabyrinthApplication\LabyrinthApplication\bin\Debug\LabyrinthApplication.pdb
+C:\Users\misos\source\repos\LabyrinthApplication\LabyrinthApplication\obj\Debug\LabyrinthApplication.exe
+C:\Users\misos\source\repos\LabyrinthApplication\LabyrinthApplication\obj\Debug\LabyrinthApplication.pdb
